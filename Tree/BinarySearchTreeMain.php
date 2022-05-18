@@ -8,13 +8,13 @@ class BinarySearchTreeMain{
 $node1 = new Node(56);
 $node2 = new Node(30);
 $node3 = new Node(22);
-$node4 = new Node(40);
+$node4 = new Node(48);
 $node5 = new Node(11);
 $node6 = new Node(3);
-$node7 = new Node(16);
+$node7 = new Node(19);
 $node8 = new Node(70);
 $node9 = new Node(60);
-$node10 = new Node(95);
+$node10 = new Node(75);
 $node11 = new Node(65);
 $node12 = new Node(63);
 $node13 = new Node(67);
